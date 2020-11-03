@@ -59,9 +59,13 @@ PolluxUI is released under MIT license. This is a free Bootstrap 4 admin templat
 ##### How to use PolluxUI?
 
 1 - Click the Clone or Download button in GitHub and download as a ZIP file
+
 2 - After the files have been downloaded you will get a folder with all the required files.
+
 3 - You can install all the dependencies in the template by running the command npm install. All the required files are in the node modules. If you didn't run with admin authorities, you will see errors
+
 4 - Find the file named index.html, check what all components you need. Open the file in a text editor and you can start editing.
+
 5 - Now that your project has now kick-started, all you need to do now is to code, code, and code to your heart's content.
 
 
