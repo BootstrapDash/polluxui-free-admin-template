@@ -76,9 +76,13 @@ We love your contributions and we welcome them wholeheartedly. To contribute mak
 After Gulp has been installed, follow the steps below to contribute.
 
 1 - Fork and clone the repo.
+
 2 - Run the command npm install to install all the dependencies.
+
 3 - Enter the command gulp serve. This will open PolluxUI in your default browser.
+
 4 - Make your contribution.
+
 5 - Submit a pull request.
 
 
