@@ -10627,7 +10627,7 @@ select.tt-hint:focus::-ms-value {
 
 .form-control-lg {
   height: 3.5rem;
-  padding: 0.94rem 1.94rem;
+  padding: 0.94rem 0.94rem;
   font-size: 1.25rem;
   line-height: 1.5;
   border-radius: 0.3rem;
@@ -12264,7 +12264,7 @@ input[type="button"].btn-block {
 .ajax-upload-dragdrop .input-group-lg > .input-group-prepend > .ajax-file-upload,
 .input-group-lg > .input-group-append > .btn,
 .ajax-upload-dragdrop .input-group-lg > .input-group-append > .ajax-file-upload {
-  padding: 0.94rem 1.94rem;
+  padding: 0.94rem 0.94rem;
   font-size: 1.25rem;
   line-height: 1.5;
   border-radius: 0.3rem;
